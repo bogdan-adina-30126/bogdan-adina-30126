@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bogdan Adina Hi, I’m **Bogdan Adina** and I am currently in my third year at the **Faculty of Automation and Computer Science**. My goal is to apply my knowledge and skills in real-world projects that solve complex problems and bring value. I am motivated by continuous learning and enjoy collaborating with professionals who share the same enthusiasm for progress. My goal is to apply my knowledge and skills in real-world projects that solve complex problems and bring value.
+- 👋 Hi, I’m Bogdan Adina Hi, I’m **Bogdan Adina** and I am currently in my third year at the **Faculty of Automation and Computer Science**. My goal is to apply my knowledge and skills in real-world projects that solve complex problems and bring value. I am motivated by continuous learning and my goal is to apply my knowledge and skills in real-world projects that solve complex problems anzd bring value.
 - 👀 I’m interested in exploring new horizons in the fields of technology and innovation.
 - 🌱 I’m currently focused on learning simulation of automated systems and programming languages.
 
